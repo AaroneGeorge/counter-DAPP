@@ -14,3 +14,6 @@ hosted repo: https://github.com/AaroneGeorge/counter-DAPP-hosted.git
 ![image](https://github.com/AaroneGeorge/counter-DAPP/assets/96471433/9e747880-e064-4878-9363-93791587d240)
 
 # changing user (a user other than the smart contract owner)
+![image](https://github.com/AaroneGeorge/counter-DAPP/assets/96471433/4b241fcf-af5d-4aca-91d8-8fbe0697befd)
+![image](https://github.com/AaroneGeorge/counter-DAPP/assets/96471433/fc356832-69ab-415f-8ec3-63755da56c2b)
+![image](https://github.com/AaroneGeorge/counter-DAPP/assets/96471433/50b4334a-c828-4da4-8536-6b47dd2ac431)
