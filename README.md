@@ -20,13 +20,13 @@ hosted repo: https://github.com/AaroneGeorge/counter-DAPP-hosted.git
 ![image](https://github.com/AaroneGeorge/counter-DAPP/assets/96471433/2e8bc604-aae7-4f65-a954-81c5432a4fd7)
 ![image](https://github.com/AaroneGeorge/counter-DAPP/assets/96471433/a77c9e40-55b1-47d5-8373-00a72fad9837)
 
-switching to smart-contract owner account
+# switching to smart-contract owner account
 ![image](https://github.com/AaroneGeorge/counter-DAPP/assets/96471433/c42a98fb-0fd8-4ba4-937b-8504d2044c94)
 
-RESET functionality
+# RESET functionality
 ![image](https://github.com/AaroneGeorge/counter-DAPP/assets/96471433/4e2ba1cd-dd6b-4f98-b9a2-d66e132258a4)
 ![image](https://github.com/AaroneGeorge/counter-DAPP/assets/96471433/ed0359d2-3d24-471a-931a-fcbe920d0d41)
 
-logging OUT...
+# logging OUT...
 ![image](https://github.com/AaroneGeorge/counter-DAPP/assets/96471433/0fdfd605-9482-461f-93b3-613d9f8f8840)
 ![image](https://github.com/AaroneGeorge/counter-DAPP/assets/96471433/b7bde9f2-ceff-4c62-acd1-7755250a7ada)
