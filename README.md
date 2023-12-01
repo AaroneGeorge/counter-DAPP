@@ -1,1 +1,1 @@
-# web3-counter-app
+# A simple web3 counter DAPP
