@@ -2,6 +2,8 @@
 
 hosted repo: https://github.com/AaroneGeorge/counter-DAPP-hosted.git
 
+CHECK IT OUT: https://counter-dapp-hosted.vercel.app/
+
 # WORKING:
 ![image](https://github.com/AaroneGeorge/counter-DAPP/assets/96471433/fca075ba-fc09-49d1-808e-275a4d1c899b)
 # login functionality
